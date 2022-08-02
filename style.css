@@ -53,3 +53,8 @@ a:hover{
   border: 1px solid black;
   background-color: black;
 }
+
+.ae-btn-inherit{
+    background-color: inherit;
+    border-color: white;
+}
