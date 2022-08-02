@@ -58,3 +58,7 @@ a:hover{
     background-color: inherit;
     border-color: white;
 }
+
+#emailHelp{
+    height: 0;
+}
