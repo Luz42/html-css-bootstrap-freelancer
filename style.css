@@ -27,6 +27,14 @@ header,
     background-color: #1abc9c;
 }
 
+.ae-color-green{
+    color: #1abc9c;
+}
+
+.ae-sm-text{
+    font-size: 0.8rem;
+}
+
 footer{
     background-color: #3a546d;
 }
