@@ -22,7 +22,8 @@
 }
 
 header,
-#about-me{
+#about-me,
+.ae-btn-green{
     background-color: #1abc9c;
 }
 
@@ -54,8 +55,8 @@ a:hover{
   background-color: black;
 }
 
-.ae-btn-inherit{
-    background-color: inherit;
+.ae-btn-green{
+    background-color: #1abc9c;
     border-color: white;
 }
 
