@@ -8,23 +8,12 @@
     UTILITIES
  *************************************************/
 
-
-
-/*************************************************
-    CONTENT
- *************************************************/
-.ae-bg-dark{
+ .ae-bg-dark{
     background-color: #2c3e50;
 }
 
 .ae-avatar-size{
     max-width: 250px;
-}
-
-header,
-#about-me,
-.ae-btn-green{
-    background-color: #1abc9c;
 }
 
 .ae-color-green{
@@ -33,6 +22,23 @@ header,
 
 .ae-sm-text{
     font-size: 0.8rem;
+}
+
+.ae-btn-green,
+.ae-btn-green:hover{
+    background-color: #1abc9c;
+    border-color: white;
+}
+
+/*************************************************
+    CONTENT
+ *************************************************/
+
+
+header,
+#about-me,
+.ae-btn-green{
+background-color: #1abc9c;
 }
 
 footer{
@@ -61,11 +67,6 @@ a:hover{
 .ae-star.ae-black-border::after {
   border: 1px solid black;
   background-color: black;
-}
-
-.ae-btn-green{
-    background-color: #1abc9c;
-    border-color: white;
 }
 
 #emailHelp{
